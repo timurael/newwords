@@ -1,0 +1,1008 @@
+Sun Jun 29 19:48:21 CEST 2025: Starting server (attempt 1)
+
+> wordmemory@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.3.4
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.179.21:3000
+
+ ✓ Starting...
+ ✓ Ready in 964ms
+ ○ Compiling / ...
+ ✓ Compiled /study in 2.4s (1416 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /study. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 2658ms
+ GET /study 200 in 368ms
+ ✓ Compiled /_not-found in 95ms (1406 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 156ms
+ ✓ Compiled /dashboard in 168ms (1431 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 199ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 24ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 10ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 19ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 26ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 100ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 8ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 14ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 38ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 32ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 35ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 35ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 32ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 33ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 34ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 39ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /words. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /words 404 in 18ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 16ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 34ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 29ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 35ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 33ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 27ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 35ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 37ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 36ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 35ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 37ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 34ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 31ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 31ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 27ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 22ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 29ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 29ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /words. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /words 404 in 21ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 17ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 38ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 12ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 21ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 29ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /study. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /study 200 in 13ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 14ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 10ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 13ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 34ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /words. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /words 404 in 7ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /words. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /words 404 in 20ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 15ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 54ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 15ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 29ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 25ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 23ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 31ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 24ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 31ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 26ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 26ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 29ms
+ ✓ Compiled in 135ms (677 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 6ms
+ ✓ Compiled /_not-found in 123ms (1431 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 193ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 110ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 32ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 27ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 31ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 27ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 23ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 33ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 32ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 33ms
+ ✓ Compiled in 358ms (1427 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 155ms
+ ✓ Compiled in 139ms (1429 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection: ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection:  ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ GET / 200 in 394ms
+ ✓ Compiled in 92ms (1429 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection: ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection:  ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ GET / 200 in 375ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 29ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 35ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 31ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 32ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 29ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 29ms
+ ✓ Compiled in 399ms (1429 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 219ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 6ms
+ ✓ Compiled /_not-found in 176ms (1433 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 238ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection: ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection:  ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ GET / 200 in 383ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 32ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 39ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 35ms
+ ✓ Compiled in 100ms (681 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 11ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 12ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 26ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 14ms
+ ✓ Compiled in 185ms (1447 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 40ms
+ GET / 200 in 40ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 33ms
+ GET /manifest.json 404 in 18ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection: ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection:  ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ GET / 200 in 386ms
+ ✓ Compiled in 187ms (1447 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 38ms
+ GET / 200 in 38ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 37ms
+ GET /manifest.json 404 in 16ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection: ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection:  ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/page.js:204:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ GET / 200 in 340ms
+ ✓ Compiled in 175ms (1459 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 39ms
+ GET /dashboard 200 in 40ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 35ms
+ GET /manifest.json 404 in 14ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/dashboard/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/dashboard/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/dashboard/page.js:193:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection: ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/dashboard/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/dashboard/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/dashboard/page.js:193:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ ⨯ unhandledRejection:  ReferenceError: indexedDB is not defined
+    at eval (src/lib/backup.ts:50:22)
+    at new Promise (<anonymous>)
+    at BackupManager.initializeDB (src/lib/backup.ts:49:11)
+    at new BackupManager (src/lib/backup.ts:41:9)
+    at eval (src/lib/backup.ts:551:29)
+    at (ssr)/./src/lib/backup.ts (.next/server/app/dashboard/page.js:259:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/store/index.ts:7:69)
+    at (ssr)/./src/store/index.ts (.next/server/app/dashboard/page.js:281:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/components/features/word-entry/AddWordDialog.tsx:13:64)
+    at (ssr)/./src/components/features/word-entry/AddWordDialog.tsx (.next/server/app/dashboard/page.js:193:1)
+    at __webpack_require__ (.next/server/webpack-runtime.js:33:42)
+    at eval (webpack-internal:///(ssr)/./src/app/page.tsx:13:103)
+    at (ssr)/./src/app/page.tsx (.next/server/app/page.js:149:1)
+    at Object.__webpack_require__ [as require] (.next/server/webpack-runtime.js:33:42)
+    at JSON.parse (<anonymous>)
+  48 |   private async initializeDB(): Promise<void> {
+  49 |     return new Promise((resolve, reject) => {
+> 50 |       const request = indexedDB.open(this.dbName, this.dbVersion)
+     |                      ^
+  51 |
+  52 |       request.onerror = () => reject(request.error)
+  53 |       request.onsuccess = () => {
+ GET / 200 in 353ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 33ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 37ms
+ ✓ Compiled in 228ms (1445 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /study. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /study 200 in 36ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/app/study/page.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/_not-found/page.js:1:3326)
+    at Object.<anonymous> (.next/server/app/_not-found/page.js:1:3367) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 543ms (1776 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 500 in 1517ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 357ms
+ GET / 200 in 329ms
+ GET /dashboard 200 in 415ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 8ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 6ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /dashboard. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /dashboard 200 in 6ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /_next/static/css/app/layout.css. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /_next/static/css/app/layout.css. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /_next/static/css/app/layout.css?v=1751220192038 404 in 21ms
+ GET /_next/static/css/app/layout.css?v=1751220192033 404 in 20ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 12ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /manifest.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /manifest.json 404 in 23ms
+ ✓ Compiled in 117ms (1776 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 127ms
+ ✓ Compiled in 97ms (1776 modules)
+ ✓ Compiled in 126ms (1776 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 101ms
+ ✓ Compiled in 134ms (1776 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 103ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 38ms
+[?25h
+Sun Jun 29 20:04:02 CEST 2025: Starting server (attempt 2)
+
+> wordmemory@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, using available port 3001 instead.
+   ▲ Next.js 15.3.4
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.179.21:3001
+
+ ✓ Starting...
+ ✓ Ready in 1173ms
+[?25h
+Sun Jun 29 22:03:24 CEST 2025: Starting server (attempt 2)
+
+> wordmemory@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.3.4
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.179.21:3000
+
+ ✓ Starting...
+ ✓ Ready in 1078ms
+[?25h
+Sun Jun 29 22:03:34 CEST 2025: Starting server (attempt 3)
+
+> wordmemory@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.3.4
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.179.21:3000
+
+ ✓ Starting...
+ ✓ Ready in 978ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2s (1408 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 2201ms
+ ✓ Compiled in 87ms (659 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 61ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 35ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 34ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 37ms
