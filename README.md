@@ -1,6 +1,11 @@
-# WordMemory - Intelligent Vocabulary Learning App
+# 🧠 WordMemory - Always-On Vocabulary Learning
 
-Never forget a word you've learned with scientifically-proven spaced repetition.
+> **Enterprise-grade vocabulary learning app with spaced repetition, running locally and always available.**
+
+[![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
 ## ✨ Features
 
@@ -17,27 +22,53 @@ Never forget a word you've learned with scientifically-proven spaced repetition.
 - **✨ Animated Cards**: Smooth, engaging study interface with sparkle effects
 - **📈 Progress Tracking**: Visual progress bars and completion stats
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-
-### Installation
-
+### One-Command Setup (Always-On)
 ```bash
-# Clone the repository
-git clone <your-repo-url>
-cd wordmemory
+# Install and start the always-on system
+./scripts/install-always-on.sh
 
+# Or use the simple command
+./wordmemory
+```
+
+### Manual Setup
+```bash
 # Install dependencies
 npm install
 
 # Start development server
 npm run dev
+
+# Open http://localhost:3000
 ```
 
-Visit `http://localhost:3000` to start using WordMemory!
+## 🎮 Always-On Commands
+
+### Main Control Panel
+```bash
+./wordmemory          # Interactive control panel
+```
+
+### Quick Commands
+```bash
+./wordmemory start    # Start server
+./wordmemory stop     # Stop server  
+./wordmemory status   # Check status
+./wordmemory open     # Open in browser
+./wordmemory logs     # View live logs
+```
+
+### Shell Aliases (after installation)
+```bash
+wordmemory      # Control panel
+wm-start        # Start server
+wm-stop         # Stop server
+wm-status       # Status check
+wm-open         # Open browser
+wm-logs         # Live logs
+```
 
 ## 🏗️ Tech Stack
 
