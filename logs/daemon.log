@@ -1,0 +1,66 @@
+[2025-06-30 00:32:55] [INFO] Starting WordMemory daemon (PID: 1555)
+[2025-06-30 00:32:55] [INFO] Log rotation completed
+[2025-06-30 00:32:55] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:32:55] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:32:59] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:32:59] [INFO] Starting monitoring loop for WordMemory
+[2025-06-30 00:32:59] [WARN] No PID file found, starting server
+[2025-06-30 00:32:59] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:33:02] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:33:05] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:15] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:25] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:32] [WARN] No PID file found, starting server
+[2025-06-30 00:33:32] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:33:35] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:33:35] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:45] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:55] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:05] [WARN] No PID file found, starting server
+[2025-06-30 00:34:05] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:34:05] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:08] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:34:15] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:25] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:35] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:38] [WARN] No PID file found, starting server
+[2025-06-30 00:34:38] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:34:41] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:34:46] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:56] [WARN] Removing stale lock file
+[2025-06-30 00:34:56] [INFO] Starting WordMemory daemon (PID: 2204)
+[2025-06-30 00:34:56] [INFO] Log rotation completed
+[2025-06-30 00:34:56] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:34:59] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:34:59] [INFO] Starting monitoring loop for WordMemory
+[2025-06-30 00:34:59] [WARN] No PID file found, starting server
+[2025-06-30 00:34:59] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:35:02] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:35:32] [INFO] Cleaning up daemon
+[2025-06-30 00:35:32] [INFO] WordMemory server stopped
+[2025-06-30 00:57:14] [INFO] Starting WordMemory daemon (PID: 5077)
+[2025-06-30 00:57:14] [INFO] Log rotation completed
+[2025-06-30 00:57:14] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:57:18] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:57:18] [INFO] Starting monitoring loop for WordMemory
+[2025-06-30 00:57:18] [WARN] No PID file found, starting server
+[2025-06-30 00:57:18] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:57:21] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:57:51] [WARN] No PID file found, starting server
+[2025-06-30 00:57:51] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:57:55] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:58:25] [WARN] No PID file found, starting server
+[2025-06-30 00:58:25] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:58:28] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:58:58] [WARN] No PID file found, starting server
+[2025-06-30 00:58:58] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:59:01] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:59:58] [WARN] Removing stale lock file
+[2025-06-30 00:59:58] [INFO] Starting WordMemory daemon (PID: 5752)
+[2025-06-30 00:59:58] [INFO] Log rotation completed
+[2025-06-30 00:59:58] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 01:00:06] [INFO] Server started on port 3001
+[2025-06-30 01:00:06] [INFO] Server running on port 3001
+[2025-06-30 01:00:07] [INFO] WordMemory server started successfully (PID: 5770, Port: 3001)
+[2025-06-30 01:00:07] [INFO] Starting monitoring loop for WordMemory
+[2025-06-30 01:00:07] [INFO] Server running on port 3001

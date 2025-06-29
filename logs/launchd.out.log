@@ -1,0 +1,23 @@
+[2025-06-30 00:32:55] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:05] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:15] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:25] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:35] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:45] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:33:55] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:05] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:15] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:25] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:35] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:46] [ERROR] Daemon already running (PID: 1555)
+[2025-06-30 00:34:56] [WARN] Removing stale lock file
+[2025-06-30 00:34:56] [INFO] Starting WordMemory daemon (PID: 2204)
+[2025-06-30 00:34:56] [INFO] Log rotation completed
+[2025-06-30 00:34:56] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:34:59] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:34:59] [INFO] Starting monitoring loop for WordMemory
+[2025-06-30 00:34:59] [WARN] No PID file found, starting server
+[2025-06-30 00:34:59] [INFO] Starting WordMemory server on port 3000
+[2025-06-30 00:35:02] [ERROR] Failed to start WordMemory server
+[2025-06-30 00:35:32] [INFO] Cleaning up daemon
+[2025-06-30 00:35:32] [INFO] WordMemory server stopped

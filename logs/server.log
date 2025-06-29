@@ -1,0 +1,20 @@
+
+> wordmemory@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, using available port 3001 instead.
+   ▲ Next.js 15.3.4
+   - Local:        http://localhost:3001
+   - Network:      http://172.18.199.139:3001
+
+ ✓ Starting...
+ ✓ Ready in 1173ms
+ ○ Compiling / ...
+ ✓ Compiled / in 917ms (1275 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 1124ms
+ ✓ Compiled in 85ms (597 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 47ms
