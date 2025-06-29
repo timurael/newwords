@@ -8,13 +8,13 @@
    - Network:      http://172.18.199.139:3001
 
  ✓ Starting...
- ✓ Ready in 1173ms
+ ✓ Ready in 1442ms
  ○ Compiling / ...
- ✓ Compiled / in 917ms (1275 modules)
+ ✓ Compiled / in 820ms (1275 modules)
  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
- GET / 200 in 1124ms
- ✓ Compiled in 85ms (597 modules)
+ GET / 200 in 1016ms
+ ✓ Compiled in 86ms (597 modules)
  ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
  GET / 200 in 47ms

@@ -1,9 +1,0 @@
-{
-  "status": "running",
-  "pid": "5770",
-  "port": "3001",
-  "uptime": "0",
-  "last_updated": "2025-06-30T01:00:07+02:00",
-  "app_name": "WordMemory",
-  "log_file": "/Users/timoel/newword/newwords/logs/daemon.log"
-}
