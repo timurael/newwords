@@ -7,6 +7,12 @@
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 
+## 🚀 **One-Click Deploy**
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/timurael/newwords)
+
+**Get your own WordMemory app live in 30 seconds!**
+
 ## ✨ Features
 
 ### Core Functionality
