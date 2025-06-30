@@ -8657,3 +8657,2151 @@ Require stack:
   requireStack: [Array]
 }
  GET / 500 in 247ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 224ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 237ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 233ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 233ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 237ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 235ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 242ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 232ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 246ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 239ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 231ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 232ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 245ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 232ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 239ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 244ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 248ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 237ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 250ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 246ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 246ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 233ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 240ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 256ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 262ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 239ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 246ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 250ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 244ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 232ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 236ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 249ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 246ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 240ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 249ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 247ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 242ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 246ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 243ms
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/app/page.js:9:17993)
+    at Object.<anonymous> (.next/server/app/page.js:9:18046) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ⨯ Error: Cannot find module './548.js'
+Require stack:
+- /Users/timoel/newword/newwords/.next/server/webpack-runtime.js
+- /Users/timoel/newword/newwords/.next/server/pages/_document.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/require.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/load-components.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/utils.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/options.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/swc/index.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/parse-module.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/build/analysis/get-page-static-info.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/router-server.js
+- /Users/timoel/newword/newwords/node_modules/next/dist/server/lib/start-server.js
+    at __webpack_require__.f.require (.next/server/webpack-runtime.js:198:28)
+    at <unknown> (.next/server/webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (.next/server/webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (.next/server/webpack-runtime.js:162:22)
+    at <unknown> (.next/server/pages/_error.js:1:9419)
+    at Object.<anonymous> (.next/server/pages/_error.js:1:9459) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET / 500 in 254ms
+ ✓ Compiled /_not-found in 187ms (1596 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /_next/static/chunks/fallback/webpack.js. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /_next/static/chunks/fallback/main.js. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /_next/static/chunks/fallback/react-refresh.js. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /_next/static/chunks/fallback/pages/_app.js. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /_next/static/chunks/fallback/pages/_error.js. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /_next/static/chunks/fallback/react-refresh.js 404 in 242ms
+ GET /_next/static/chunks/fallback/pages/_error.js 404 in 240ms
+ GET /_next/static/chunks/fallback/pages/_app.js 404 in 241ms
+ GET /_next/static/chunks/fallback/webpack.js 404 in 297ms
+ GET /_next/static/chunks/fallback/main.js 404 in 244ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 110ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 26ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 31ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 27ms
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+ ⚠ Specified "headers" will not automatically work with "output: export". See more info here: https://nextjs.org/docs/messages/export-no-custom-routes
+   ▲ Next.js 15.3.4
+   - Local:        http://localhost:3000
+   - Network:      http://172.18.199.139:3000
+
+ ✓ Starting...
+ ⚠ Specified "headers" will not automatically work with "output: export". See more info here: https://nextjs.org/docs/messages/export-no-custom-routes
+ ⚠ Specified "headers" will not automatically work with "output: export". See more info here: https://nextjs.org/docs/messages/export-no-custom-routes
+ ✓ Ready in 1153ms
+ ○ Compiling / ...
+ ✓ Compiled / in 996ms (1275 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 1225ms
+ ✓ Compiled in 89ms (597 modules)
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 37ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 39ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 38ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 30ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms
+ ⚠ Unsupported metadata themeColor is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 28ms

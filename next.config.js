@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Netlify optimization
+  // Netlify optimization with Next.js Runtime support
   output: 'export',
   trailingSlash: true,
   images: {
@@ -12,8 +12,13 @@ const nextConfig = {
   // Production optimizations
   compress: true,
   generateEtags: false,
-  // Netlify-specific headers (handled in netlify.toml)
-  ...(process.env.NODE_ENV === 'production' ? {} : {
+  // Netlify Next.js Runtime optimizations
+  ...(process.env.NETLIFY && {
+    // Enable standalone output for better performance on Netlify
+    distDir: '.next',
+  }),
+  // Development headers (Netlify handles production headers)
+  ...(process.env.NODE_ENV !== 'production' ? {
     headers: async () => {
       return [
         {
@@ -27,7 +32,7 @@ const nextConfig = {
         },
       ]
     },
-  }),
+  } : {}),
 }
 
 module.exports = nextConfig
