@@ -34,6 +34,11 @@ export default function StudyPage() {
   }, [getTodayQueue, startStudySession, endStudySession])
 
   const currentWord = todayQueue[currentWordIndex]
+
+  // Safety check
+  if (!currentWord && todayQueue.length > 0 && currentWordIndex < todayQueue.length) {
+    return <div className="min-h-screen flex items-center justify-center text-white">Loading...</div>
+  }
   
   const handleRating = (rating: 1 | 2 | 3 | 4) => {
     if (!currentWord || !startTime) return
@@ -248,6 +253,13 @@ export default function StudyPage() {
                       <div className="text-sm text-green-300 mb-2">German</div>
                       <div className="text-2xl font-semibold text-white">{currentWord.germanTranslation}</div>
                     </GlassCard>
+                    
+                    {currentWord.examples && currentWord.examples.length > 0 && (
+                      <GlassCard variant="neon" className="p-6">
+                        <div className="text-sm text-amber-300 mb-2">Example</div>
+                        <div className="text-lg text-amber-100 italic">"{currentWord.examples[0]}"</div>
+                      </GlassCard>
+                    )}
                     
                     {currentWord.notes && (
                       <GlassCard variant="default" className="p-6">

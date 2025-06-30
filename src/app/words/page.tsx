@@ -240,6 +240,13 @@ export default function WordsPage() {
                       </div>
                     </div>
 
+                    {word.examples && word.examples.length > 0 && (
+                      <div className="bg-amber-500/20 rounded-lg p-3">
+                        <div className="text-xs text-amber-300 mb-1">Example</div>
+                        <div className="text-amber-100 text-sm italic">"{word.examples[0]}"</div>
+                      </div>
+                    )}
+
                     {word.notes && (
                       <div className="bg-white/10 rounded-lg p-3">
                         <div className="text-xs text-purple-300 mb-1">Notes</div>

@@ -146,7 +146,7 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
               Add New Word
             </CardTitle>
             <CardDescription>
-              Enter the word with Turkish and German translations
+              Enter the word with Turkish 🇹🇷 and German 🇩🇪 translations, plus examples
             </CardDescription>
           </CardHeader>
           <CardContent>
