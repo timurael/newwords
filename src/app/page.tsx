@@ -17,6 +17,7 @@ const navItems = [
   { name: "Dashboard", link: "/dashboard", icon: <Target className="h-4 w-4" /> },
   { name: "Study", link: "/study", icon: <Play className="h-4 w-4" /> },
   { name: "Words", link: "/words", icon: <Brain className="h-4 w-4" /> },
+  { name: "Map", link: "/map", icon: <SparklesIcon className="h-4 w-4" /> },
   { name: "Progress", link: "/progress", icon: <TrendingUp className="h-4 w-4" /> },
 ];
 

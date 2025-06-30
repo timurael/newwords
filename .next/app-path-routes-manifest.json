@@ -1,8 +1,9 @@
 {
   "/_not-found/page": "/_not-found",
   "/dashboard/page": "/dashboard",
-  "/progress/page": "/progress",
   "/page": "/",
+  "/map/page": "/map",
+  "/progress/page": "/progress",
   "/study/page": "/study",
   "/words/page": "/words"
 }

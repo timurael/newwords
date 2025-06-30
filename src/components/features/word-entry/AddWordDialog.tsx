@@ -21,6 +21,7 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
     turkishTranslation: '',
     germanTranslation: '',
     notes: '',
+    examples: [] as string[],
     tags: [] as string[],
   })
   
@@ -78,6 +79,7 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
         turkishTranslation: formData.turkishTranslation.trim(),
         germanTranslation: formData.germanTranslation.trim(),
         notes: formData.notes.trim(),
+        examples: formData.examples.filter(ex => ex.trim()),
         tags: [
           ...formData.tags,
           new Date().toISOString().split('T')[0], // Add date tag
@@ -91,6 +93,7 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
         turkishTranslation: '',
         germanTranslation: '',
         notes: '',
+        examples: [],
         tags: [],
       })
       
@@ -192,6 +195,22 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
                   placeholder="Deutsche Übersetzung..."
                   className="w-full"
                   required
+                  disabled={isSubmitting}
+                />
+              </div>
+
+              <div>
+                <label className="text-sm font-medium mb-2 block">
+                  Example Sentence (Optional)
+                </label>
+                <Input
+                  value={formData.examples[0] || ''}
+                  onChange={(e) => setFormData(prev => ({ 
+                    ...prev, 
+                    examples: e.target.value ? [e.target.value] : []
+                  }))}
+                  placeholder="Example: 'The quick brown fox jumps...'"
+                  className="w-full"
                   disabled={isSubmitting}
                 />
               </div>

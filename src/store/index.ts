@@ -17,6 +17,7 @@ interface WordStore {
     turkishTranslation: string
     germanTranslation: string
     notes?: string
+    examples?: string[]
     tags?: string[]
   }) => void
   updateWord: (id: string, updates: Partial<Word>) => void
@@ -66,6 +67,7 @@ export const useWordStore = create<WordStore>()(
             turkishTranslation: wordData.turkishTranslation,
             germanTranslation: wordData.germanTranslation,
             notes: wordData.notes || '',
+            examples: wordData.examples || [],
             tags: wordData.tags || [],
             createdAt: new Date(),
             difficulty: 5, // Initial difficulty

@@ -47,6 +47,12 @@
       "namedRegex": "^/dashboard(?:/)?$"
     },
     {
+      "page": "/map",
+      "regex": "^/map(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/map(?:/)?$"
+    },
+    {
       "page": "/progress",
       "regex": "^/progress(?:/)?$",
       "routeKeys": {},
