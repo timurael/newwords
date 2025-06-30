@@ -4,6 +4,8 @@
 
 [build.environment]
   NODE_ENV = "production"
+  NODE_VERSION = "20"
+  NPM_FLAGS = "--production=false"
   NEXT_TELEMETRY_DISABLED = "1"
   NETLIFY = "true"
   # Optimize for Netlify Next.js Runtime
