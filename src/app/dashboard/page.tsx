@@ -8,7 +8,7 @@ import { AddWordDialog, AddWordDialogRef } from '@/components/features/word-entr
 import { BackgroundGradient } from '@/components/aceternity/background-gradient'
 import { BackupManager } from '@/components/features/backup/BackupManager'
 import { useWordStore } from '@/store'
-import { Play, Plus, BookOpen, Calendar, Target, TrendingUp, Shield } from 'lucide-react'
+import { Play, Plus, BookOpen, Calendar, Target, TrendingUp, Shield, Settings } from 'lucide-react'
 import Link from 'next/link'
 
 export default function DashboardPage() {
@@ -134,6 +134,12 @@ export default function DashboardPage() {
                   <Button variant="outline" className="w-full justify-start">
                     <TrendingUp className="mr-2 h-4 w-4" />
                     Learning Journey
+                  </Button>
+                </Link>
+                <Link href="/settings">
+                  <Button variant="outline" className="w-full justify-start">
+                    <Settings className="mr-2 h-4 w-4" />
+                    Settings & Sync
                   </Button>
                 </Link>
               </CardContent>

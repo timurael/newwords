@@ -2,6 +2,7 @@ import { create } from 'zustand'
 import { devtools, persist } from 'zustand/middleware'
 import { Word, StudyStats, ReviewSession, VerbForms } from '@/types/word'
 import { backupManager } from '@/lib/backup'
+import { githubDataManager } from '@/lib/github-storage'
 
 interface WordStore {
   // State
@@ -30,6 +31,9 @@ interface WordStore {
   startStudySession: () => void
   endStudySession: () => void
   calculateStats: () => StudyStats
+  syncToGitHub: () => Promise<boolean>
+  loadFromGitHub: () => Promise<void>
+  initializeGitHubToken: (token: string) => void
 }
 
 const initialStats: StudyStats = {
@@ -251,6 +255,31 @@ export const useWordStore = create<WordStore>()(
             retentionRate,
             averageSessionTime: 0, // TODO: Calculate from sessions
           }
+        },
+
+        // GitHub integration methods
+        syncToGitHub: async () => {
+          const words = get().words
+          return await githubDataManager.saveToGitHub(words)
+        },
+
+        loadFromGitHub: async () => {
+          set({ isLoading: true })
+          try {
+            const words = await githubDataManager.loadFromGitHub()
+            set({ 
+              words, 
+              stats: get().calculateStats(),
+              isLoading: false 
+            })
+          } catch (error) {
+            console.error('Failed to load from GitHub:', error)
+            set({ isLoading: false })
+          }
+        },
+
+        initializeGitHubToken: (token: string) => {
+          githubDataManager.setGitHubToken(token)
         },
       }),
       {
