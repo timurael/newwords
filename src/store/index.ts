@@ -1,6 +1,6 @@
 import { create } from 'zustand'
 import { devtools, persist } from 'zustand/middleware'
-import { Word, StudyStats, ReviewSession } from '@/types/word'
+import { Word, StudyStats, ReviewSession, VerbForms } from '@/types/word'
 import { backupManager } from '@/lib/backup'
 
 interface WordStore {
@@ -18,6 +18,9 @@ interface WordStore {
     germanTranslation: string
     notes?: string
     examples?: string[]
+    germanSentenceExample?: string
+    verbForms?: VerbForms
+    understandingContext?: string
     tags?: string[]
   }) => void
   updateWord: (id: string, updates: Partial<Word>) => void
@@ -68,6 +71,9 @@ export const useWordStore = create<WordStore>()(
             germanTranslation: wordData.germanTranslation,
             notes: wordData.notes || '',
             examples: wordData.examples || [],
+            germanSentenceExample: wordData.germanSentenceExample,
+            verbForms: wordData.verbForms,
+            understandingContext: wordData.understandingContext,
             tags: wordData.tags || [],
             createdAt: new Date(),
             difficulty: 5, // Initial difficulty

@@ -14,8 +14,20 @@ export interface Word {
   lapseCount: number
   audioUrl?: string
   examples?: string[]
+  germanSentenceExample?: string
+  verbForms?: VerbForms
+  understandingContext?: string
   notes?: string
   state: 'new' | 'learning' | 'review' | 'relearning'
+}
+
+export interface VerbForms {
+  infinitive?: string
+  pastTense?: string
+  pastParticiple?: string
+  presentTense?: string
+  imperativeSingular?: string
+  imperativePlural?: string
 }
 
 export interface ReviewSession {

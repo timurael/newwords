@@ -6,7 +6,7 @@ import { Input } from '@/components/ui/input'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { BackgroundGradient } from '@/components/aceternity/background-gradient'
 import { useWordStore } from '@/store'
-import { Plus, Languages, Tag } from 'lucide-react'
+import { Plus, Languages, Tag, BookOpen, Lightbulb } from 'lucide-react'
 
 export interface AddWordDialogRef {
   openDialog: () => void
@@ -22,6 +22,17 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
     germanTranslation: '',
     notes: '',
     examples: [] as string[],
+    germanSentenceExample: '',
+    understandingContext: '',
+    verbForms: {
+      infinitive: '',
+      pastTense: '',
+      pastParticiple: '',
+      presentTense: '',
+      imperativeSingular: '',
+      imperativePlural: '',
+    },
+    isVerb: false,
     tags: [] as string[],
   })
   
@@ -80,10 +91,21 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
         germanTranslation: formData.germanTranslation.trim(),
         notes: formData.notes.trim(),
         examples: formData.examples.filter(ex => ex.trim()),
+        germanSentenceExample: formData.germanSentenceExample.trim() || undefined,
+        understandingContext: formData.understandingContext.trim() || undefined,
+        verbForms: formData.isVerb ? {
+          infinitive: formData.verbForms.infinitive.trim() || undefined,
+          pastTense: formData.verbForms.pastTense.trim() || undefined,
+          pastParticiple: formData.verbForms.pastParticiple.trim() || undefined,
+          presentTense: formData.verbForms.presentTense.trim() || undefined,
+          imperativeSingular: formData.verbForms.imperativeSingular.trim() || undefined,
+          imperativePlural: formData.verbForms.imperativePlural.trim() || undefined,
+        } : undefined,
         tags: [
           ...formData.tags,
           new Date().toISOString().split('T')[0], // Add date tag
-          'auto-tagged'
+          'auto-tagged',
+          ...(formData.isVerb ? ['verb'] : []),
         ],
       })
 
@@ -94,6 +116,17 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
         germanTranslation: '',
         notes: '',
         examples: [],
+        germanSentenceExample: '',
+        understandingContext: '',
+        verbForms: {
+          infinitive: '',
+          pastTense: '',
+          pastParticiple: '',
+          presentTense: '',
+          imperativeSingular: '',
+          imperativePlural: '',
+        },
+        isVerb: false,
         tags: [],
       })
       
@@ -146,7 +179,7 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
               Add New Word
             </CardTitle>
             <CardDescription>
-              Enter the word with Turkish 🇹🇷 and German 🇩🇪 translations, plus examples
+              Enter the word with Turkish 🇹🇷 and German 🇩🇪 translations, examples, and context
             </CardDescription>
           </CardHeader>
           <CardContent>
@@ -198,6 +231,111 @@ export const AddWordDialog = forwardRef<AddWordDialogRef>((props, ref) => {
                   disabled={isSubmitting}
                 />
               </div>
+
+              <div>
+                <label className="text-sm font-medium mb-2 block flex items-center gap-2">
+                  <Languages className="h-4 w-4" />
+                  German Sentence Example (Optional)
+                </label>
+                <Input
+                  value={formData.germanSentenceExample}
+                  onChange={(e) => setFormData(prev => ({ ...prev, germanSentenceExample: e.target.value }))}
+                  placeholder="Ein deutscher Beispielsatz..."
+                  className="w-full"
+                  disabled={isSubmitting}
+                />
+              </div>
+
+              <div>
+                <label className="text-sm font-medium mb-2 block flex items-center gap-2">
+                  <Lightbulb className="h-4 w-4" />
+                  Understanding Context (Optional)
+                </label>
+                <Input
+                  value={formData.understandingContext}
+                  onChange={(e) => setFormData(prev => ({ ...prev, understandingContext: e.target.value }))}
+                  placeholder="Additional context for better understanding..."
+                  className="w-full"
+                  disabled={isSubmitting}
+                />
+              </div>
+
+              <div>
+                <label className="text-sm font-medium mb-2 block flex items-center gap-2">
+                  <input
+                    type="checkbox"
+                    checked={formData.isVerb}
+                    onChange={(e) => setFormData(prev => ({ ...prev, isVerb: e.target.checked }))}
+                    className="mr-2"
+                    disabled={isSubmitting}
+                  />
+                  <BookOpen className="h-4 w-4" />
+                  This is a verb (show verb forms)
+                </label>
+              </div>
+
+              {formData.isVerb && (
+                <div className="space-y-3 p-4 bg-blue-50 dark:bg-blue-900/20 rounded-lg">
+                  <h4 className="text-sm font-semibold flex items-center gap-2">
+                    <BookOpen className="h-4 w-4" />
+                    Verb Forms (Optional)
+                  </h4>
+                  <div className="grid grid-cols-2 gap-3">
+                    <div>
+                      <label className="text-xs font-medium mb-1 block">Infinitive</label>
+                      <Input
+                        value={formData.verbForms.infinitive}
+                        onChange={(e) => setFormData(prev => ({ 
+                          ...prev, 
+                          verbForms: { ...prev.verbForms, infinitive: e.target.value }
+                        }))}
+                        placeholder="zu gehen"
+                        className="w-full text-sm"
+                        disabled={isSubmitting}
+                      />
+                    </div>
+                    <div>
+                      <label className="text-xs font-medium mb-1 block">Past Tense</label>
+                      <Input
+                        value={formData.verbForms.pastTense}
+                        onChange={(e) => setFormData(prev => ({ 
+                          ...prev, 
+                          verbForms: { ...prev.verbForms, pastTense: e.target.value }
+                        }))}
+                        placeholder="ging"
+                        className="w-full text-sm"
+                        disabled={isSubmitting}
+                      />
+                    </div>
+                    <div>
+                      <label className="text-xs font-medium mb-1 block">Past Participle</label>
+                      <Input
+                        value={formData.verbForms.pastParticiple}
+                        onChange={(e) => setFormData(prev => ({ 
+                          ...prev, 
+                          verbForms: { ...prev.verbForms, pastParticiple: e.target.value }
+                        }))}
+                        placeholder="gegangen"
+                        className="w-full text-sm"
+                        disabled={isSubmitting}
+                      />
+                    </div>
+                    <div>
+                      <label className="text-xs font-medium mb-1 block">Present Tense</label>
+                      <Input
+                        value={formData.verbForms.presentTense}
+                        onChange={(e) => setFormData(prev => ({ 
+                          ...prev, 
+                          verbForms: { ...prev.verbForms, presentTense: e.target.value }
+                        }))}
+                        placeholder="geht"
+                        className="w-full text-sm"
+                        disabled={isSubmitting}
+                      />
+                    </div>
+                  </div>
+                </div>
+              )}
 
               <div>
                 <label className="text-sm font-medium mb-2 block">

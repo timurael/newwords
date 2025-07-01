@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { useWordStore } from '@/store'
 import { Word } from '@/types/word'
-import { Clock, Quote } from 'lucide-react'
+import { Clock, Quote, BookOpen, Lightbulb } from 'lucide-react'
 
 interface FloatingWordProps {
   word: Word
@@ -80,9 +80,9 @@ const FloatingWord = ({ word, index }: FloatingWordProps) => {
           transition={{ duration: 0.3 }}
         >
           <div className="px-4 py-3 space-y-1">
-            {/* Original word */}
+            {/* German translation first */}
             <div className="text-base font-bold text-white drop-shadow-lg flex items-center gap-2">
-              {word.original}
+              🇩🇪 {word.germanTranslation}
               <motion.div 
                 className="w-2 h-2 bg-gradient-to-r from-cyan-400 to-blue-500 rounded-full"
                 animate={{ scale: [1, 1.3, 1] }}
@@ -90,13 +90,13 @@ const FloatingWord = ({ word, index }: FloatingWordProps) => {
               />
             </div>
             
-            {/* Translations */}
+            {/* English and Turkish translations */}
             <div className="space-y-0.5">
+              <div className="text-sm text-blue-100 drop-shadow flex items-center gap-1">
+                🇬🇧 {word.original}
+              </div>
               <div className="text-sm text-cyan-100 drop-shadow flex items-center gap-1">
                 🇹🇷 {word.turkishTranslation}
-              </div>
-              <div className="text-sm text-purple-100 drop-shadow flex items-center gap-1">
-                🇩🇪 {word.germanTranslation}
               </div>
             </div>
             
@@ -106,14 +106,77 @@ const FloatingWord = ({ word, index }: FloatingWordProps) => {
               {getTimeAgo(word.createdAt)}
             </div>
             
-            {/* Example sentence (if expanded and available) */}
+            {/* German sentence example (if expanded and available) */}
+            <AnimatePresence>
+              {isExpanded && word.germanSentenceExample && (
+                <motion.div
+                  initial={{ opacity: 0, height: 0 }}
+                  animate={{ opacity: 1, height: 'auto' }}
+                  exit={{ opacity: 0, height: 0 }}
+                  transition={{ duration: 0.3 }}
+                  className="border-t border-white/20 pt-2 mt-2"
+                >
+                  <div className="flex items-start gap-1 text-xs text-green-200">
+                    <Quote className="w-3 h-3 mt-0.5 flex-shrink-0" />
+                    <span className="italic leading-relaxed max-w-48">
+                      {word.germanSentenceExample}
+                    </span>
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
+            
+            {/* Verb forms (if expanded and available) */}
+            <AnimatePresence>
+              {isExpanded && word.verbForms && (
+                <motion.div
+                  initial={{ opacity: 0, height: 0 }}
+                  animate={{ opacity: 1, height: 'auto' }}
+                  exit={{ opacity: 0, height: 0 }}
+                  transition={{ duration: 0.3, delay: 0.05 }}
+                  className="border-t border-white/20 pt-2 mt-2"
+                >
+                  <div className="flex items-start gap-1 text-xs text-amber-200">
+                    <BookOpen className="w-3 h-3 mt-0.5 flex-shrink-0" />
+                    <div className="leading-relaxed max-w-48">
+                      <div className="font-semibold mb-1">Verb Forms:</div>
+                      {word.verbForms.infinitive && <div>∞ {word.verbForms.infinitive}</div>}
+                      {word.verbForms.pastTense && <div>📅 {word.verbForms.pastTense}</div>}
+                      {word.verbForms.pastParticiple && <div>📋 {word.verbForms.pastParticiple}</div>}
+                    </div>
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
+            
+            {/* Understanding context (if expanded and available) */}
+            <AnimatePresence>
+              {isExpanded && word.understandingContext && (
+                <motion.div
+                  initial={{ opacity: 0, height: 0 }}
+                  animate={{ opacity: 1, height: 'auto' }}
+                  exit={{ opacity: 0, height: 0 }}
+                  transition={{ duration: 0.3, delay: 0.1 }}
+                  className="border-t border-white/20 pt-2 mt-2"
+                >
+                  <div className="flex items-start gap-1 text-xs text-indigo-200">
+                    <Lightbulb className="w-3 h-3 mt-0.5 flex-shrink-0" />
+                    <span className="leading-relaxed max-w-48">
+                      {word.understandingContext}
+                    </span>
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
+            
+            {/* Regular examples (if expanded and available) */}
             <AnimatePresence>
               {isExpanded && word.examples && word.examples.length > 0 && (
                 <motion.div
                   initial={{ opacity: 0, height: 0 }}
                   animate={{ opacity: 1, height: 'auto' }}
                   exit={{ opacity: 0, height: 0 }}
-                  transition={{ duration: 0.3 }}
+                  transition={{ duration: 0.3, delay: 0.15 }}
                   className="border-t border-white/20 pt-2 mt-2"
                 >
                   <div className="flex items-start gap-1 text-xs text-green-200">

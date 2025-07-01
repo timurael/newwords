@@ -239,20 +239,46 @@ export default function StudyPage() {
             <div className="text-center flex-1 flex flex-col justify-center">
               <div className="mb-8">
                 <div className="text-5xl md:text-6xl font-bold mb-6 text-white drop-shadow-2xl">
-                  {currentWord.original}
+                  {currentWord.germanTranslation}
                 </div>
                 
                 {showAnswer && (
                   <div className="space-y-4 animate-in fade-in-50 duration-500">
+                    <GlassCard variant="frosted" className="p-6">
+                      <div className="text-sm text-blue-300 mb-2">🇬🇧 English</div>
+                      <div className="text-2xl font-semibold text-white">{currentWord.original}</div>
+                    </GlassCard>
+                    
                     <GlassCard variant="neon" className="p-6">
-                      <div className="text-sm text-cyan-300 mb-2">Turkish</div>
+                      <div className="text-sm text-cyan-300 mb-2">🇹🇷 Turkish</div>
                       <div className="text-2xl font-semibold text-white">{currentWord.turkishTranslation}</div>
                     </GlassCard>
                     
-                    <GlassCard variant="frosted" className="p-6">
-                      <div className="text-sm text-green-300 mb-2">German</div>
-                      <div className="text-2xl font-semibold text-white">{currentWord.germanTranslation}</div>
-                    </GlassCard>
+                    {currentWord.germanSentenceExample && (
+                      <GlassCard variant="neon" className="p-6">
+                        <div className="text-sm text-green-300 mb-2">🇩🇪 German Example</div>
+                        <div className="text-lg text-green-100 italic">"{currentWord.germanSentenceExample}"</div>
+                      </GlassCard>
+                    )}
+                    
+                    {currentWord.verbForms && (
+                      <GlassCard variant="frosted" className="p-6">
+                        <div className="text-sm text-purple-300 mb-2">📚 Verb Forms</div>
+                        <div className="text-lg text-purple-100 space-y-2">
+                          {currentWord.verbForms.infinitive && <div>∞ {currentWord.verbForms.infinitive}</div>}
+                          {currentWord.verbForms.pastTense && <div>📅 {currentWord.verbForms.pastTense}</div>}
+                          {currentWord.verbForms.pastParticiple && <div>📋 {currentWord.verbForms.pastParticiple}</div>}
+                          {currentWord.verbForms.presentTense && <div>🔄 {currentWord.verbForms.presentTense}</div>}
+                        </div>
+                      </GlassCard>
+                    )}
+                    
+                    {currentWord.understandingContext && (
+                      <GlassCard variant="default" className="p-6">
+                        <div className="text-sm text-indigo-300 mb-2">💡 Understanding Context</div>
+                        <div className="text-lg text-indigo-100">{currentWord.understandingContext}</div>
+                      </GlassCard>
+                    )}
                     
                     {currentWord.examples && currentWord.examples.length > 0 && (
                       <GlassCard variant="neon" className="p-6">

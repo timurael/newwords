@@ -225,20 +225,51 @@ export default function WordsPage() {
 
                   <div className="space-y-3">
                     <div>
-                      <div className="text-2xl font-bold text-white mb-2">{word.original}</div>
+                      <div className="text-2xl font-bold text-white mb-2">{word.germanTranslation}</div>
+                      <div className="text-sm text-gray-300">{word.original} • {word.turkishTranslation}</div>
                     </div>
 
                     <div className="space-y-2">
-                      <div className="bg-blue-500/20 rounded-lg p-3">
-                        <div className="text-xs text-blue-300 mb-1">Turkish</div>
-                        <div className="text-blue-100 font-medium">{word.turkishTranslation}</div>
-                      </div>
-                      
                       <div className="bg-green-500/20 rounded-lg p-3">
-                        <div className="text-xs text-green-300 mb-1">German</div>
+                        <div className="text-xs text-green-300 mb-1">🇩🇪 German</div>
                         <div className="text-green-100 font-medium">{word.germanTranslation}</div>
                       </div>
+                      
+                      <div className="bg-blue-500/20 rounded-lg p-3">
+                        <div className="text-xs text-blue-300 mb-1">🇬🇧 English</div>
+                        <div className="text-blue-100 font-medium">{word.original}</div>
+                      </div>
+                      
+                      <div className="bg-cyan-500/20 rounded-lg p-3">
+                        <div className="text-xs text-cyan-300 mb-1">🇹🇷 Turkish</div>
+                        <div className="text-cyan-100 font-medium">{word.turkishTranslation}</div>
+                      </div>
                     </div>
+
+                    {word.germanSentenceExample && (
+                      <div className="bg-amber-500/20 rounded-lg p-3">
+                        <div className="text-xs text-amber-300 mb-1">🇩🇪 German Example</div>
+                        <div className="text-amber-100 text-sm italic">"{word.germanSentenceExample}"</div>
+                      </div>
+                    )}
+
+                    {word.verbForms && (
+                      <div className="bg-purple-500/20 rounded-lg p-3">
+                        <div className="text-xs text-purple-300 mb-1">📚 Verb Forms</div>
+                        <div className="text-purple-100 text-sm space-y-1">
+                          {word.verbForms.infinitive && <div>∞ {word.verbForms.infinitive}</div>}
+                          {word.verbForms.pastTense && <div>📅 {word.verbForms.pastTense}</div>}
+                          {word.verbForms.pastParticiple && <div>📋 {word.verbForms.pastParticiple}</div>}
+                        </div>
+                      </div>
+                    )}
+
+                    {word.understandingContext && (
+                      <div className="bg-indigo-500/20 rounded-lg p-3">
+                        <div className="text-xs text-indigo-300 mb-1">💡 Context</div>
+                        <div className="text-indigo-100 text-sm">{word.understandingContext}</div>
+                      </div>
+                    )}
 
                     {word.examples && word.examples.length > 0 && (
                       <div className="bg-amber-500/20 rounded-lg p-3">
